@@ -71,8 +71,8 @@ INSERT INTO subscription
 		(subscription_type, subscription_value)
 VALUES
 		('gratuito', 0),
-    ('universitário', 5.99),
 		('pessoal', 6.99),
+    ('universitário', 5.99),
     ('familiar', 7.99);
 
 INSERT INTO user
